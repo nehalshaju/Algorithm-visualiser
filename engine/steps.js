@@ -3,3 +3,4 @@ export const STEP_TYPES = {
     SWAP: 'SWAP',
     MARK_FINAL: 'MARK_FINAL'
 };
+
